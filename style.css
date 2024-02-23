@@ -1,0 +1,71 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+.form{
+           width: 400px;
+           height: 96vh;
+           border: 1px solid gray;
+           margin: 0px auto;
+           margin-top: 28px;
+           box-shadow: 3px 3px 3px black;
+           border-top-left-radius: 5px;
+           border-top-right-radius: 8px;
+           
+}
+h1{
+
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+}
+.form-first-row input{
+               width: 350px;
+               margin-left: 25px;
+               height: 30px;
+               margin-bottom: 10px;
+
+}
+.gender{
+
+  margin-left: 25px;
+  margin-bottom: 10px;
+
+}
+.gender label{
+        font-weight: bold;
+        
+}
+.file input{
+        margin-left: 25px;
+        margin-bottom: 10px;
+
+}
+.row-value input{
+
+width: 350px;
+height: 30px;
+margin-bottom: 10px;
+margin-left: 25px;
+
+}
+textarea{
+      width: 350px;
+      height: 100px;
+      margin-left: 25px;
+      margin-bottom: 10px;
+
+}
+button{
+        width: 350px;
+        height: 30px;
+        background-color: green;
+        color: white;
+        border: none;
+        margin-left: 25px;
+
+
+}
